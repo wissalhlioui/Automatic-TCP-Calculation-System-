@@ -2,15 +2,17 @@
 
 
 
-
-![AUBO i10 Robot](images/aubo-i10-pic.jpg)
-
-
 ## Project Overview
 This research project focuses on the development of an automated system for calculating the **Tool Center Point (TCP)** of a 6-axis industrial robot. Accurate TCP calibration is essential for robotic applications requiring high precision, such as industrial assembly, machining, and welding.
 
 
 The proposed system aims to automate the TCP estimation process in order to reduce human intervention, improve calibration accuracy, and increase operational efficiency in industrial robotic environments.
+
+
+<p align="center">
+  <img src="images/aubo-i10-pic.jpg" width="650">
+</p>
+
 
 ## Problem Statement & Objectives
 In industrial applications involving 6-axis robots, accurate TCP calibration is critical to ensure precise tool positioning. Traditional calibration methods are often time-consuming and highly dependent on operator expertise.
@@ -59,7 +61,7 @@ The laser displacement sensor is directly wired to the robot through its digital
 
 The following workflow summarizes the experimental procedure used to validate the TCP calibration system.
 <p align="center">
-  <img src="images/workflow.png" width="800">
+  <img src="images/workflow.drawio.png" width="650">
 </p>
 
 ## Applications
