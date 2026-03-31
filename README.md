@@ -3,7 +3,7 @@
 
 
 
-![AUBO i10 Robot](images/aubo i10 pic.png)
+![AUBO i10 Robot](images/aubo i10 pic.jpg)
 
 
 ## Project Overview
@@ -59,7 +59,7 @@ The laser displacement sensor is directly wired to the robot through its digital
 
 The following workflow summarizes the experimental procedure used to validate the TCP calibration system.
 <p align="center">
-  <img src="images/workflow.png" width="600">
+  <img src="images/workflow.png" width="800">
 </p>
 
 ## Applications
