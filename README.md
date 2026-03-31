@@ -3,7 +3,7 @@
 
 
 
-![AUBO i10 Robot](images/aubo i10 pic.jpg)
+![AUBO i10 Robot](images/aubo-i10-pic.jpg)
 
 
 ## Project Overview
